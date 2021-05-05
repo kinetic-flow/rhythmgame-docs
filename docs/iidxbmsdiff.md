@@ -49,21 +49,21 @@ These are for 7key and 14key modes; other modes in beatoraja have different valu
 <table>
     <thead>
         <tr>
-            <td rowspan=2>Remaining Life</td>
-            <td colspan=3 align=center>LR2</td>
-            <td colspan=3 align=center>IIDX</td>
-            <td colspan=3 align=center>beatoraja</td>
+            <th rowspan=2>Remaining Life</td>
+            <th colspan=3 align=center>LR2</td>
+            <th colspan=3 align=center>IIDX</td>
+            <th colspan=3 align=center>beatoraja</td>
         </tr>
         <tr>
-            <td>BD</td>
-            <td>PR</td>
-            <td>空P</td>
-            <td>BD</td>
-            <td>PR</td>
-            <td>空P</td>
-            <td>BD</td>
-            <td>PR</td>
-            <td>空P</td>
+            <th>BD</td>
+            <th>PR</td>
+            <th>空P</td>
+            <th>BD</td>
+            <th>PR</td>
+            <th>空P</td>
+            <th>BD</td>
+            <th>PR</td>
+            <th>空P</td>
         </tr>
     </thead>
     <tbody>
@@ -124,23 +124,25 @@ These are for 7key and 14key modes; other modes in beatoraja have different valu
 
 ### DAN gauge adjustment
 <table>
-    <tr>
-        <td rowspan=2>Remaining Life</td>
-        <td colspan=3 align=center>LR2</td>
-        <td colspan=3 align=center>IIDX</td>
-        <td colspan=3 align=center>beatoraja</td>
-    </tr>
-    <tr>
-        <td>BD</td>
-        <td>PR</td>
-        <td>空P</td>
-        <td>BD</td>
-        <td>PR</td>
-        <td>空P</td>
-        <td>BD</td>
-        <td>PR</td>
-        <td>空P</td>
-    </tr>
+    <thead>
+        <tr>
+            <th rowspan=2>Remaining Life</td>
+            <th colspan=3 align=center>LR2</td>
+            <th colspan=3 align=center>IIDX</td>
+            <th colspan=3 align=center>beatoraja</td>
+        </tr>
+        <tr>
+            <th>BD</td>
+            <th>PR</td>
+            <th>空P</td>
+            <th>BD</td>
+            <th>PR</td>
+            <th>空P</td>
+            <th>BD</td>
+            <th>PR</td>
+            <th>空P</td>
+        </tr>
+    </thead>
     <tr>
         <td>30+</td>
         <td>-2</td>
