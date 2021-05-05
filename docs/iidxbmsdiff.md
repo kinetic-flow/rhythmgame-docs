@@ -48,21 +48,21 @@ These are for 7key and 14key modes; other modes in beatoraja have different valu
 
 <table>
     <tr>
-        <th rowspan=2>Remaining Life</td>
-        <th colspan=3 align=center>LR2</td>
-        <th colspan=3 align=center>IIDX</td>
-        <th colspan=3 align=center>beatoraja</td>
+        <th rowspan=2>Remaining Life</th>
+        <th colspan=3 align=center>LR2</th>
+        <th colspan=3 align=center>IIDX</th>
+        <th colspan=3 align=center>beatoraja</th>
     </tr>
     <tr>
-        <th>BD</td>
-        <th>PR</td>
-        <th>空P</td>
-        <th>BD</td>
-        <th>PR</td>
-        <th>空P</td>
-        <th>BD</td>
-        <th>PR</td>
-        <th>空P</td>
+        <th>BD</th>
+        <th>PR</th>
+        <th>空P</th>
+        <th>BD</th>
+        <th>PR</th>
+        <th>空P</th>
+        <th>BD</th>
+        <th>PR</th>
+        <th>空P</th>
     </tr>
     <tr>
         <td>60+</td>
@@ -120,22 +120,22 @@ These are for 7key and 14key modes; other modes in beatoraja have different valu
 
 ### DAN gauge adjustment
 <table>
-   <tr>
-        <th rowspan=2>Remaining Life</td>
-        <th colspan=3 align=center>LR2</td>
-        <th colspan=3 align=center>IIDX</td>
-        <th colspan=3 align=center>beatoraja</td>
+    <tr>
+        <th rowspan=2>Remaining Life</th>
+        <th colspan=3 align=center>LR2</th>
+        <th colspan=3 align=center>IIDX</th>
+        <th colspan=3 align=center>beatoraja</th>
     </tr>
     <tr>
-        <th>BD</td>
-        <th>PR</td>
-        <th>空P</td>
-        <th>BD</td>
-        <th>PR</td>
-        <th>空P</td>
-        <th>BD</td>
-        <th>PR</td>
-        <th>空P</td>
+        <th>BD</th>
+        <th>PR</th>
+        <th>空P</th>
+        <th>BD</th>
+        <th>PR</th>
+        <th>空P</th>
+        <th>BD</th>
+        <th>PR</th>
+        <th>空P</th>
     </tr>
     <tr>
         <td>30+</td>
