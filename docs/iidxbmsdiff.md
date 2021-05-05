@@ -224,7 +224,7 @@ If you are playing BMS DAN courses, the gauge differences are small since beator
 
 If you are playing difficulty tables, your experience will differ from others, since difficulty tables are rated using LR2. Tables are usually rated on easy or normal gauge. Even if you ignore the differences in timing, no direct comparison can be made between LR2 groove gauge and beatoraja groove gauge, since their calculation methods are different. On survival gauges though, beatoraja is always easier than LR2, so you should keep that in mind.
 
-If you like to use LR2 timing and gauge for everything, check out [https://github.com/wcko87/lr2oraja/ LR2oraja ].
+If you like to use LR2 timing and gauge for everything, check out [LR2oraja](https://github.com/wcko87/lr2oraja/).
 
 ## References
 
