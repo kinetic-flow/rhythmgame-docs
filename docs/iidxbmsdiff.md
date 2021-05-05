@@ -9,243 +9,34 @@ Notes
 * a = a function of total note count in IIDX, but depends on chart
 * all units in %
 
-{| class="wikitable" 
-|-
-! 
-! PGREAT
-! GREAT
-! GOOD
-! BAD
-! POOR
-! 空POOR
-! Low Life Adj ※0
-|-
-| Beatoraja/AEASY
-| T/n
-| T/n
-| T/n/2
-| -1.5
-| -3
-| -0.5
-| -
-|-
-| IIDX/AEASY
-| a
-| a
-| a/2
-| -3.2
-| -4.8
-| -1.6
-| -
-|-
-|
-|
-|
-|
-|
-|
-|
-|
-|-
-| Beatoraja/EASY
-| T/n
-| T/n
-| T/n/2
-| -1.5
-| -4.5
-| -1
-| -
-|-
-| LR2/EASY
-| (T/n)*1.2
-| (T/n)*1.2
-| (T/n)*0.6
-| -3.2
-| -4.8
-| -1.6
-| -
-|-
-| IIDX/EASY
-| a
-| a
-| a/2
-| -1.6
-| -4.8
-| -1.6
-| -
-|-
-|
-|
-|
-|
-|
-|
-|
-|
-|-
-| Beatoraja/NORMAL
-| T/n
-| T/n
-| T/n/2
-| -3
-| -6
-| -2
-| -
-|-
-| LR2/NORMAL
-| T/n
-| T/n
-| T/n/2
-| -4
-| -6
-| -2
-| -
-|-
-| IIDX/NORMAL
-| a
-| a
-| a/2
-| -2
-| -6
-| -2
-| -
-|-
-|
-|
-|
-|
-|
-|
-|
-|
-|-
-| Beatoraja/HARD
-| 0.15 ※2
-| 0.12 ※2
-| 0.03 ※2
-| -5
-| -10
-| -5
-| Yes
-|-
-| LR2/HARD
-| 0.1
-| 0.1
-| 0.05
-| -6 ※1
-| -10 ※1
-| -2 ※1
-| Yes
-|-
-| IIDX/HARD
-| 0.16
-| 0.16
-| 0
-| -5
-| -9
-| -5
-| Yes
-|-
-|
-|
-|
-|
-|
-|
-|
-|
-|-
-| Beatoraja/EXH
-| 0.15 ※2
-| 0.06 ※2
-| 0
-| -8
-| -16
-| -8
-| No
-|-
-| IIDX/EXH
-| 0.16
-| 0.16
-| 0
-| -10
-| -18
-| -10
-| No
-|-
-|
-|
-|
-|
-|
-|
-|
-|
-|-
-| Beatoraja/DAN ※3
-| 0.15
-| 0.12
-| 0.06
-| -1.5
-| -3
-| -1.5
-| Yes
-|-
-| LR2/DAN
-| 0.1
-| 0.1
-| 0.05
-| -2
-| -3
-| -2
-| Yes
-|-
-| IIDX/DAN
-| 0.16
-| 0.16
-| 0.04
-| -1.5
-| -2.5
-| -1.5
-| Yes
-|-
-|
-|
-|
-|
-|
-|
-|
-|
-|-
-| IIDX/EXDAN
-| 0.16
-| 0.16
-| 0.04
-| -3.0
-| -5.0
-| -3.0
-| No
-|-
-| Beatoraja/EXDAN
-| 0.15
-| 0.12
-| 0.03
-| -3
-| -6
-| -3
-| No
-|-
-| Beatoraja/EXHDAN
-| 0.15
-| 0.08
-| 0
-| -5
-| -10
-| -5
-| No
-|-
-|}
+|                  | PGREAT    | GREAT     | GOOD      | BAD   | POOR   | 空POOR | Low Life Adj ※0 |
+|------------------|-----------|-----------|-----------|-------|--------|-------|-----------------|
+| Beatoraja/AEASY  | T/n       | T/n       | T/n/2     | -1.5  | -3     | -0.5  | -               |
+| IIDX/AEASY       | a         | a         | a/2       | -3.2  | -4.8   | -1.6  | -               |
+|                  |           |           |           |       |        |       |                 |
+| Beatoraja/EASY   | T/n       | T/n       | T/n/2     | -1.5  | -4.5   | -1    | -               |
+| LR2/EASY         | (T/n)*1.2 | (T/n)*1.2 | (T/n)*0.6 | -3.2  | -4.8   | -1.6  | -               |
+| IIDX/EASY        | a         | a         | a/2       | -1.6  | -4.8   | -1.6  | -               |
+|                  |           |           |           |       |        |       |                 |
+| Beatoraja/NORMAL | T/n       | T/n       | T/n/2     | -3    | -6     | -2    | -               |
+| LR2/NORMAL       | T/n       | T/n       | T/n/2     | -4    | -6     | -2    | -               |
+| IIDX/NORMAL      | a         | a         | a/2       | -2    | -6     | -2    | -               |
+|                  |           |           |           |       |        |       |                 |
+| Beatoraja/HARD   | 0.15 ※2   | 0.12 ※2   | 0.03 ※2   | -5    | -10    | -5    | Yes             |
+| LR2/HARD         | 0.1       | 0.1       | 0.05      | -6 ※1 | -10 ※1 | -2 ※1 | Yes             |
+| IIDX/HARD        | 0.16      | 0.16      | 0         | -5    | -9     | -5    | Yes             |
+|                  |           |           |           |       |        |       |                 |
+| Beatoraja/EXH    | 0.15 ※2   | 0.06 ※2   | 0         | -8    | -16    | -8    | No              |
+| IIDX/EXH         | 0.16      | 0.16      | 0         | -10   | -18    | -10   | No              |
+|                  |           |           |           |       |        |       |                 |
+| Beatoraja/DAN ※3 | 0.15      | 0.12      | 0.06      | -1.5  | -3     | -1.5  | Yes             |
+| LR2/DAN          | 0.1       | 0.1       | 0.05      | -2    | -3     | -2    | Yes             |
+| IIDX/DAN         | 0.16      | 0.16      | 0.04      | -1.5  | -2.5   | -1.5  | Yes             |
+|                  |           |           |           |       |        |       |                 |
+| IIDX/EXDAN       | 0.16      | 0.16      | 0.04      | -3.0  | -5.0   | -3.0  | No              |
+| Beatoraja/EXDAN  | 0.15      | 0.12      | 0.03      | -3    | -6     | -3    | No              |
+| Beatoraja/EXHDAN | 0.15      | 0.08      | 0         | -5    | -10    | -5    | No              |
+
 
 These are for 7key and 14key modes; other modes in beatoraja have different values.
 * ※0 When the gauge is low, the rate of decrease is lowered; see the two sections below.
