@@ -119,17 +119,79 @@ These are for 7key and 14key modes; other modes in beatoraja have different valu
 * In beatoraja, this is more of a gradual decrease from 50% and down
 
 ### DAN gauge adjustment
-
-| Remaining Life |      |  LR2 |      |      | IIDX |      |      | raja |      | 
-|----------------|------|------|------|------|------|------|------|------|------|
-|                |  BD  |  PR  | 空P  |  BD  |  PR  | 空P  |  BD  |  PR  |  空P |
-| >30            | -2   | -3   | -2   | -1.5 | -2.5 | -1.5 | -1.5 |   -3 | -1.5 |
-| <30            | -1.2 | -1.8 | -1.2 |-0.75 | -1.25| -0.75| -1.5 |  -3  | -1.5 |
-| 25             |      |      |      |      |      |      | -1.2 | -2.4 | -1.2 |
-| 20             |      |      |      |      |      |      | -1.05| -2.1 | -1.05|
-| 15             |      |      |      |      |      |      | -0.9 | -1.8 | -0.9 |
-| 10             |      |      |      |      |      |      | -0.75| -1.5 | -0.75|
-| 5              |      |      |      |      |      |      | -0.6 | -1.2 | -0.6 |
+<table>
+    <tr>
+        <td rowspan=2>Remaining Life</td>
+        <td colspan=3 align=center>LR2</td>
+        <td colspan=3 align=center>IIDX</td>
+        <td colspan=3 align=center>beatoraja</td>
+    </tr>
+    <tr>
+        <td>BD</td>
+        <td>PR</td>
+        <td>空P</td>
+        <td>BD</td>
+        <td>PR</td>
+        <td>空P</td>
+        <td>BD</td>
+        <td>PR</td>
+        <td>空P</td>
+    </tr>
+    <tr>
+        <td>30+</td>
+        <td>-2</td>
+        <td>-3</td>
+        <td>-2</td>
+        <td>-1.5</td>
+        <td>-2.5</td>
+        <td>-1.5</td>
+        <td>-1.5</td>
+        <td>-3</td>
+        <td>-1.5</td>
+    </tr>
+    <tr>
+        <td>30</td>
+        <td rowspan=6>-1.2</td>
+        <td rowspan=6>-1.8</td>
+        <td rowspan=6>-1.2</td>
+        <td rowspan=6>-0.75</td>
+        <td rowspan=6>-1.25</td>
+        <td rowspan=6>-0.75</td>
+        <td>-1.5</td>
+        <td>-3</td>
+        <td>-1.5</td>
+    </tr>
+    <tr>
+        <td>25</td>
+        <td>-1.2</td>
+        <td>-2.4</td>
+        <td>-1.2</td>
+    </tr>
+    <tr>
+        <td>20</td>
+        <td>-1.05</td>
+        <td>-2.1</td>
+        <td>-1.05</td>
+    </tr>
+    <tr>
+        <td>15</td>
+        <td>-0.9</td>
+        <td>-1.8</td>
+        <td>-0.9</td>
+    </tr>
+    <tr>
+        <td>10</td>
+        <td>-0.75</td>
+        <td>-1.5</td>
+        <td>-0.75</td>
+    </tr>
+    <tr>
+        <td>5</td>
+        <td>-0.6</td>
+        <td>-1.2</td>
+        <td>-0.6</td>
+    </tr>
+</table>
 
 
 * Again, most DAN courses are tagged to enable LR2 DAN gauge in beatoraja.
