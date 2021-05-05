@@ -46,68 +46,16 @@ These are for 7key and 14key modes; other modes in beatoraja have different valu
 
 ### Hard gauge adjustment
 
-{| class="wikitable" style="text-align:center;"
-{| class="wikitable" style="text-align:center;"
-|-
-! Remaining life
-! colspan="3" | LR2
-! colspan="3" | IIDX
-! colspan="3" | beatoraja
-|-
-|- style="text-align:left;"
-| 
-| BD
-| PR
-| 空P
-| BD
-| PR
-| 空P
-| BD
-| PR
-| 空P
-|-
-| style="text-align:right;" | 60+
-| rowspan="3" | -6
-| rowspan="3" | -10
-| rowspan="3" | -2
-| rowspan="3" | -5
-| rowspan="3" | -9
-| rowspan="3" | -5
-| -5
-| -10
-| -5
-|-
-| style="text-align:right;" | 50
-| -4
-| -8
-| -4
-|-
-| style="text-align:right;" | 40
-| -3.5
-| -7
-| -3.5
-|-
-| style="text-align:right;" | 30
-| rowspan="3" | -3.6
-| rowspan="3" | -6
-| rowspan="3" | -1.2
-| rowspan="3" | -2.5
-| rowspan="3" | -4.5
-| rowspan="3" | -2.5
-| -3
-| -6
-| -3
-|-
-| style="text-align:right;" | 20
-| -2.5
-| -5
-| -2.5
-|-
-| style="text-align:right;" | 10
-| -2
-| -4
-| -2
-|}
+|                |      |  LR2 |      |      | IIDX |      |      | raja |      | 
+|----------------|------|------|------|------|------|------|------|------|------|
+| Remaining Life |  BD  |  PR  | 空P  |  BD  |  PR  | 空P  |  BD  |  PR  |  空P |
+| 60+            | -6   | -10  | -2   |  -5  | -9   | -5   | -5   | -10  | -5   |
+| 50             |      |      |      |      |      |      |  -4  | -8   | -4   |
+| 40             |      |      |      |      |      |      | -3.5 | -7   | -3.5 |
+| 30             | -3.6 | -6   | -1.2 | -2.5 | -4.5 | -2.5 | -3   | -6   | -3   |
+| 20             |      |      |      |      |      |      | -2.5 | -5   | -2.5 |
+| 10             |      |      |      |      |      |      | -2   | -4   | -2   |
+
 
 * In IIDX and LR2, the gauge decreases at a lower rate when the gauge is at or below 30%
 * In beatoraja, this is more of a gradual decrease from 50% and down
