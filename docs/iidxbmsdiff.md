@@ -323,70 +323,17 @@ These are for 7key and 14key modes; other modes in beatoraja have different valu
 
 ### DAN gauge adjustment
 
-{| class="wikitable" 
-|- style="text-align:center;"
-! rowspan="2" style="text-align:left;" | Remaining Life
-! colspan="3" | LR2
-! colspan="3" | IIDX
-! colspan="3" | Beatoraja
-|- style="text-align:center;"
-| BD
-| PR
-| 空P
-| BD
-| PR
-| 空P
-| BD
-| PR
-| 空P
-|-
-| >30
-| -2
-| -3
-| -2
-| -1.5
-| -2.5
-| -1.5
-| -1.5
-| -3
-| -1.5
-|-
-| <30
-| rowspan="6" | -1.2
-| rowspan="6" | -1.8
-| rowspan="6" | -1.2
-| rowspan="6" | -0.75
-| rowspan="6" | -1.25
-| rowspan="6" | -0.75
-| -1.5
-| -3
-| -1.5
-|-
-| 25
-| -1.2
-| -2.4
-| -1.2
-|-
-| 20
-| -1.05
-| -2.1
-| -1.05
-|-
-| 15
-| -0.9
-| -1.8
-| -0.9
-|-
-| 10
-| -0.75
-| -1.5
-| -0.75
-|-
-| 5
-| -0.6
-| -1.2
-| -0.6
-|}
+|                |      |  LR2 |      |      | IIDX |      |      | raja |      | 
+|----------------|------|------|------|------|------|------|------|------|------|
+| Remaining Life |  BD  |  PR  | 空P  |  BD  |  PR  | 空P  |  BD  |  PR  |  空P |
+| >30            | -2   | -3   | -2   | -1.5 | -2.5 | -1.5 | -1.5 |   -3 | -1.5 |
+| <30            | -1.2 | -1.8 | -1.2 |-0.75 | -1.25| -0.75| -1.5 |  -3  | -1.5 |
+| 25             |      |      |      |      |      |      | -1.2 | -2.4 | -1.2 |
+| 20             |      |      |      |      |      |      | -1.05| -2.1 | -1.05|
+| 15             |      |      |      |      |      |      | -0.9 | -1.8 | -0.9 |
+| 10             |      |      |      |      |      |      | -0.75| -1.5 | -0.75|
+| 5              |      |      |      |      |      |      | -0.6 | -1.2 | -0.6 |
+
 
 * Again, most DAN courses are tagged to enable LR2 DAN gauge in beatoraja.
 
