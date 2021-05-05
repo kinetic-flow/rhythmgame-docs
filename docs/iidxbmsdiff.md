@@ -108,18 +108,18 @@ If you like to use LR2 timing and gauge for everything, check out [https://githu
 
 ## References
 
-https://lntakeshi.hateblo.jp/entry/2017/05/19/002127
+[https://lntakeshi.hateblo.jp/entry/2017/05/19/002127]()
 
-https://github.com/exch-bms2/beatoraja/blob/master/src/bms/player/beatoraja/play/GaugeProperty.java
+[https://github.com/exch-bms2/beatoraja/blob/master/src/bms/player/beatoraja/play/GaugeProperty.java]()
 
-https://github.com/exch-bms2/beatoraja/blob/master/src/bms/player/beatoraja/play/GrooveGauge.java
+[https://github.com/exch-bms2/beatoraja/blob/master/src/bms/player/beatoraja/play/GrooveGauge.java]()
 
-https://github.com/exch-bms2/beatoraja/blob/master/src/bms/player/beatoraja/play/JudgeProperty.java
+[https://github.com/exch-bms2/beatoraja/blob/master/src/bms/player/beatoraja/play/JudgeProperty.java]()
 
-https://ch.nicovideo.jp/mirai_s_bemani_blog/blomaga/ar1389382
+[https://ch.nicovideo.jp/mirai_s_bemani_blog/blomaga/ar1389382]()
 
-https://twitter.com/n13092s/status/908795911286878208
+[https://twitter.com/n13092s/status/908795911286878208]()
 
-http://stairway.sakura.ne.jp/bms/delay.htm#input
+[http://stairway.sakura.ne.jp/bms/delay.htm#input]()
 
 
