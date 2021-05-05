@@ -1,3 +1,5 @@
+# Troubleshooting DJ DAO beatmania IIDX controllers
+
 ## Before we begin: PCB variants
 
 Please note that this guide is for older Dao IIDX controllers - FPS, FP7, PEE, RES, RED. If you have a Phoenixwan - please contact Gamo2 support instead, they have a lot of undocumented features and firmware updates not available to the public that resolves various issues.
